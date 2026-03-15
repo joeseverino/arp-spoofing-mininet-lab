@@ -1,4 +1,4 @@
-# ARP Spoofing Simulation and Mitigation Lab
+# Simulating ARP Spoofing with Mininet and Demonstrating Enterprise Mitigations
 
 This project demonstrates how ARP spoofing can be performed in a virtual network using Mininet and how enterprise networks mitigate the attack using technologies such as DHCP Snooping and Dynamic ARP Inspection.
 

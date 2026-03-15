@@ -22,10 +22,10 @@ Custom Python script used to generate the Mininet topology for the ARP spoofing 
 **vulnerable.pcap**  
 Packet capture showing ARP spoofing behavior and redirected traffic between hosts.
 
-**arp-spoofing-mitigation-lab.pkt**  
+**arp_spoofing_mitigation_lab.pkt**  
 Cisco Packet Tracer lab demonstrating enterprise mitigation using DHCP Snooping and Dynamic ARP Inspection.
 
-**mininet-topology.png / mininet-topology.svg**  
+**mininet_topology.png / mininet_topology.svg**  
 Network topology diagrams used for the simulation.
 
 ---
